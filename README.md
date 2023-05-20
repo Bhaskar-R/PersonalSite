@@ -1,7 +1,6 @@
 ## PersonalSite
-The Personal Site project is a basic website that serves as a personal portfolio or online presence. It was built using simple HTML and CSS.
+The Personal Site project is a basic website that serves as a personal portfolio. It was built using simple HTML and CSS.
 
-Link - https://bhaskar-r.github.io/PersonalSite/
 ## Acknowledgements
 
 - Cloud image by [Pexels](https://www.pexels.com/)
